@@ -1,1 +1,3 @@
 #!/usr/bin/env bash
+# Default for players who never used .trashtocash (1 = auto-sell on, 0 = off)
+JunkToGold.Toggle.DefaultEnabled = 1
